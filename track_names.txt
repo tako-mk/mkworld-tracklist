@@ -2,7 +2,7 @@
 トロフィーシティ,トロシ,cc,CC:トロフィーシティ:https://media.discordapp.net/attachments/1348176200547307550/1381247724749455442/CC.png
 シュポポコースター,シュポコ,ws,WS:シュポポコースター:https://media.discordapp.net/attachments/1380075460951670806/1381163210119446680/WS.png
 DKうちゅうセンター,うちゅうセンター,うちゅうせん,dks,DKS:DKうちゅうセンター:https://media.discordapp.net/attachments/1380075460951670806/1381164613860851723/DKS.png
-サンサンさばく,さんさば,サンさば,サンサバ,rsh,rDH,dh,DH:サンサンさばく:https://media.discordapp.net/attachments/1380075460951670806/1381167880334344223/rDH.png
+サンサンさばく,さんさば,サンさば,サンサバ,rdh,rDH,dh,DH:サンサンさばく:https://media.discordapp.net/attachments/1380075460951670806/1381167880334344223/rDH.png
 ヘイホーカーニバル,ヘイホー,ヘイカー,ｵﾆｮｰ,rsgb,rSGB,sgb,SGB:ヘイホーカーニバル:https://media.discordapp.net/attachments/1380075460951670806/1381168621258149968/SGB.png
 ワリオスタジアム,ワリスタ,rws,rWS:ワリオスタジアム:https://media.discordapp.net/attachments/1380075460951670806/1381170819333357709/rWS.png
 キラーシップ,キラシ,raf,rAF,af,AF:キラーシップ:https://media.discordapp.net/attachments/1380075460951670806/1381171847856656395/rAF.png
