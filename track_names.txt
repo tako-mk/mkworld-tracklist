@@ -11,7 +11,7 @@ DKスノーマウンテン,DKスノ,雪山,dkp,DKP:DKスノーマウンテン:ht
 アイスビルディング,アイス,rshs,rSHS,shs,SHS:アイス:https://media.discordapp.net/attachments/1380075460951670806/1381189567071387688/rSHS.png
 ワリオシップ,ワリシ,rwsh,rWSh,wsh,WSh:ワリオシップ:https://media.discordapp.net/attachments/1380075460951670806/1381190443357962250/rWSh.png
 ノコノコビーチ,ノコビ,rktb,rKTB,ktb,KTB:ノコノコビーチ:https://media.discordapp.net/attachments/1380075460951670806/1381191808465240094/rKTB.png
-リバーサイドサファリ,リバサ,サファリ,fc,FC:リバーサイドサファリ:https://media.discordapp.net/attachments/1348176200547307550/1381198184185069658/FC.png
+リバーサイドサファリ,リバサ,サファリ,fo,FO:リバーサイドサファリ:https://media.discordapp.net/attachments/1348176200547307550/1381198184185069658/FC.png
 ピーチスタジアム,ピースタ,ピチスタ,ps,PS:https://media.discordapp.net/attachments/1348176200547307550/1381247724082565242/PS.png
 ピーチビーチ,ビーチ,ピービー,rpb,rPB,pb,PB:ピーチビーチ:https://media.discordapp.net/attachments/1348176200547307550/1381247461284253849/rPB.png
 ソルティータウン,ソルティー,ソルタ,sss,SSS:ソルティータウン:https://media.discordapp.net/attachments/1348176200547307550/1381248485650862091/SSS.png
@@ -28,4 +28,3 @@ DKスノーマウンテン,DKスノ,雪山,dkp,DKP:DKスノーマウンテン:ht
 どんぐりツリーハウス,どんぐり,ah,AH:どんぐりツリーハウス:https://media.discordapp.net/attachments/1380075460951670806/1381259707007766659/AH.png
 マリオサーキット,マリサ,mc,MC:マリオサーキット:https://media.discordapp.net/attachments/1380075460951670806/1381260478189408390/MC.png
 レインボーロード,虹,rr,RR:レインボーロード:https://media.discordapp.net/attachments/1380075460951670806/1381261604254908437/RR.png
-
